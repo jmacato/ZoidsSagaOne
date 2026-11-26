@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+.pytest_cache/
+__pycache__/
+*.gba
+*.nds
+*.sav
+*.cheats
+*.rar
+*.sqlite*

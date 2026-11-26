@@ -1,0 +1,660 @@
+{
+  "pilot change (pilot list)": {
+    "fields": [
+      "0x080569D0",
+      "0x080569F8",
+      "0x08056A4E",
+      "0x08056A5E"
+    ],
+    "parts": [
+      "0x080569DA",
+      "0x08056A58"
+    ],
+    "closers": [
+      "0x08056A00",
+      "0x08056A66"
+    ]
+  },
+  "pilot change (Zoid list)": {
+    "fields": [
+      "0x080574EA",
+      "0x0805750E",
+      "0x08057552",
+      "0x08057576"
+    ],
+    "parts": [
+      "0x080574F2",
+      "0x0805755A"
+    ],
+    "closers": [
+      "0x08057516",
+      "0x0805757E"
+    ]
+  },
+  "pilot change (Zoid swap)": {
+    "fields": [
+      "0x08057A06",
+      "0x08057A2C",
+      "0x08057A78",
+      "0x08057A88"
+    ],
+    "parts": [
+      "0x08057A10",
+      "0x08057A82"
+    ],
+    "closers": [
+      "0x08057A34",
+      "0x08057A90"
+    ]
+  },
+  "pilot change (Zoid sale)": {
+    "fields": [
+      "0x0805892E",
+      "0x0805894C",
+      "0x08058980",
+      "0x08058990"
+    ],
+    "parts": [
+      "0x08058938",
+      "0x0805898A"
+    ],
+    "closers": [
+      "0x08058954",
+      "0x08058998"
+    ]
+  },
+  "weapon shop buy": {
+    "fields": [
+      "0x08054884",
+      "0x080548A8"
+    ],
+    "parts": [
+      "0x0805488E"
+    ],
+    "closers": [
+      "0x080548B0"
+    ]
+  },
+  "weapon shop sell": {
+    "fields": [
+      "0x08054CEE",
+      "0x08054D02"
+    ],
+    "parts": [
+      "0x08054CF8"
+    ],
+    "closers": [
+      "0x08054D0A"
+    ]
+  },
+  "item shop buy": {
+    "fields": [
+      "0x08053CD2",
+      "0x08053D04",
+      "0x08053D18",
+      "0x08053D2A"
+    ],
+    "parts": [
+      "0x08053D0E",
+      "0x08053D20"
+    ],
+    "closers": [
+      "0x08053D32"
+    ]
+  },
+  "item shop sell": {
+    "fields": [
+      "0x08054226",
+      "0x0805423A",
+      "0x0805424C"
+    ],
+    "parts": [
+      "0x08054230",
+      "0x08054242"
+    ],
+    "closers": [
+      "0x08054254"
+    ]
+  },
+  "Zoid sale": {
+    "fields": [
+      "0x08058A26",
+      "0x08058A3A"
+    ],
+    "parts": [
+      "0x08058A30"
+    ],
+    "closers": [
+      "0x08058A42"
+    ]
+  },
+  "few Zoids warning": {
+    "fields": [
+      "0x08058876"
+    ],
+    "parts": [
+      "0x0805886A"
+    ],
+    "closers": [
+      "0x0805887E"
+    ]
+  },
+  "revive cost": {
+    "fields": [
+      "0x08055DD2",
+      "0x08055DE8"
+    ],
+    "parts": [
+      "0x08055DDE"
+    ],
+    "closers": [
+      "0x08055DF0"
+    ]
+  },
+  "battle HP recovery": {
+    "fields": [
+      "0x0802C7E6",
+      "0x0802C802"
+    ],
+    "parts": [
+      "0x0802C7F0",
+      "0x0802C7F8"
+    ],
+    "closers": [
+      "0x0802C80A"
+    ]
+  },
+  "battle stat change": {
+    "fields": [
+      "0x0802CF6A",
+      "0x0802CF86",
+      "0x0802CFB4",
+      "0x0802CFCA",
+      "0x0802CFE0",
+      "0x0802CFF6",
+      "0x0802D00C",
+      "0x0802D022",
+      "0x0802D02C"
+    ],
+    "parts": [
+      "0x0802CF74"
+    ],
+    "closers": [
+      "0x0802D03E",
+      "0x0802D054"
+    ]
+  },
+  "Zoid development shortage": {
+    "fields": [],
+    "parts": [
+      "0x08056476",
+      "0x0805649C",
+      "0x080564B4",
+      "0x080564C4",
+      "0x080564D4"
+    ],
+    "closers": [
+      "0x080564DC"
+    ]
+  },
+  "no Zoid warning": {
+    "fields": [],
+    "parts": [
+      "0x08055696",
+      "0x080556C8",
+      "0x08055702",
+      "0x0805570A",
+      "0x08055718"
+    ],
+    "closers": [
+      "0x080558E2"
+    ]
+  },
+  "complete 7561F4": {
+    "fields": [
+      "0x0804EE6C",
+      "0x08052420"
+    ],
+    "parts": [
+      "0x0804EE5A",
+      "0x0805240E"
+    ],
+    "closers": [
+      "0x0804EE74",
+      "0x08052428"
+    ]
+  },
+  "complete 7567BE": {
+    "fields": [
+      "0x08050D3C"
+    ],
+    "closers": [
+      "0x08050D44"
+    ]
+  },
+  "complete 7568FD": {
+    "fields": [
+      "0x08051286"
+    ],
+    "closers": [
+      "0x0805128E"
+    ]
+  },
+  "complete 756A21": {
+    "fields": [
+      "0x08051AEC"
+    ],
+    "parts": [
+      "0x08051AE2"
+    ],
+    "closers": [
+      "0x08051AF4"
+    ]
+  },
+  "complete 7578A0": {
+    "fields": [
+      "0x0805767E"
+    ],
+    "closers": [
+      "0x08057686"
+    ]
+  },
+  "complete 7579DB": {
+    "fields": [
+      "0x08057C0E"
+    ],
+    "closers": [
+      "0x08057C16"
+    ]
+  },
+  "complete 75711A": {
+    "fields": [
+      "0x08053A4A",
+      "0x08053A88",
+      "0x08053E02",
+      "0x08053E34"
+    ],
+    "parts": [
+      "0x08053A26",
+      "0x08053DE4"
+    ],
+    "closers": [
+      "0x08053A90",
+      "0x08053E3E"
+    ]
+  },
+  "complete 75735A": {
+    "fields": [
+      "0x08054774",
+      "0x0805493E"
+    ],
+    "parts": [
+      "0x08054758",
+      "0x0805492E"
+    ],
+    "closers": [
+      "0x0805477C",
+      "0x08054946"
+    ]
+  },
+  "complete 6735F9": {
+    "fields": [
+      "0x08035CB4",
+      "0x08035CD2"
+    ],
+    "parts": [
+      "0x08035CBE"
+    ],
+    "closers": [
+      "0x08035CDA"
+    ]
+  },
+  "complete 6738E1": {
+    "fields": [
+      "0x08036444"
+    ],
+    "parts": [
+      "0x08036438"
+    ],
+    "closers": [
+      "0x0803644C"
+    ]
+  },
+  "complete 6737C3": {
+    "fields": [
+      "0x0803BC4A",
+      "0x0803BC5C"
+    ],
+    "parts": [
+      "0x0803BC54"
+    ],
+    "closers": [
+      "0x0803BC64"
+    ]
+  },
+  "complete 673986": {
+    "fields": [
+      "0x08037890"
+    ],
+    "parts": [
+      "0x0803788A"
+    ],
+    "closers": [
+      "0x08037898"
+    ]
+  },
+  "complete 673879": {
+    "fields": [
+      "0x08035B78",
+      "0x08037694",
+      "0x080379C0"
+    ],
+    "parts": [
+      "0x08035B6C",
+      "0x0803768E",
+      "0x080379BA"
+    ],
+    "closers": [
+      "0x08035B80",
+      "0x0803769C",
+      "0x080379C8"
+    ]
+  },
+  "complete 6737FF": {
+    "fields": [
+      "0x0802C1B2",
+      "0x0802C1C8"
+    ],
+    "parts": [
+      "0x0802C1BA"
+    ],
+    "closers": [
+      "0x0802C224"
+    ]
+  },
+  "complete 673589": {
+    "fields": [
+      "0x0802C206",
+      "0x0802C21C"
+    ],
+    "parts": [
+      "0x0802C20E"
+    ],
+    "closers": [
+      "0x0802C224"
+    ]
+  },
+  "complete reward items": {
+    "fields": [
+      "0x08035A50",
+      "0x08035AB0",
+      "0x08035B18",
+      "0x08037658",
+      "0x08037712",
+      "0x08037756",
+      "0x0803795C"
+    ],
+    "parts": [
+      "0x08035A4A",
+      "0x08035AAA",
+      "0x08035B0A",
+      "0x08037652",
+      "0x08037704",
+      "0x08037750",
+      "0x08037956"
+    ],
+    "closers": [
+      "0x08035A58",
+      "0x08035AB8",
+      "0x08035B20",
+      "0x0803775E",
+      "0x08037964"
+    ]
+  },
+  "complete 0802B0AE": {
+    "fields": [
+      "0x0802B0A6"
+    ],
+    "closers": [
+      "0x0802B0AE"
+    ]
+  },
+  "complete 0802B21A": {
+    "fields": [
+      "0x0802B212"
+    ],
+    "closers": [
+      "0x0802B21A"
+    ]
+  },
+  "complete 0802C24C": {
+    "fields": [
+      "0x0802C244"
+    ],
+    "closers": [
+      "0x0802C24C"
+    ]
+  },
+  "complete 0802C2FA": {
+    "fields": [
+      "0x0802C2F2"
+    ],
+    "closers": [
+      "0x0802C2FA"
+    ]
+  },
+  "complete 0802C866": {
+    "fields": [
+      "0x0802C85E"
+    ],
+    "closers": [
+      "0x0802C866"
+    ]
+  },
+  "complete 0802D18E": {
+    "fields": [
+      "0x0802D186"
+    ],
+    "closers": [
+      "0x0802D18E"
+    ]
+  },
+  "complete 0802D2F2": {
+    "fields": [
+      "0x0802D2EA"
+    ],
+    "closers": [
+      "0x0802D2F2"
+    ]
+  },
+  "complete 0802E8AE": {
+    "fields": [
+      "0x0802E8A6"
+    ],
+    "closers": [
+      "0x0802E8AE"
+    ]
+  },
+  "complete 0802EC02": {
+    "fields": [
+      "0x0802EBFA"
+    ],
+    "closers": [
+      "0x0802EC02"
+    ]
+  },
+  "complete 0802FC10": {
+    "fields": [
+      "0x0802FC08"
+    ],
+    "closers": [
+      "0x0802FC10"
+    ]
+  },
+  "complete 0803597E": {
+    "fields": [
+      "0x08035976"
+    ],
+    "closers": [
+      "0x0803597E"
+    ]
+  },
+  "complete 08035C20": {
+    "fields": [
+      "0x08035C18"
+    ],
+    "closers": [
+      "0x08035C20"
+    ]
+  },
+  "complete 08035D9C": {
+    "fields": [
+      "0x08035D94"
+    ],
+    "closers": [
+      "0x08035D9C"
+    ]
+  },
+  "complete 0803779E": {
+    "fields": [
+      "0x08037796"
+    ],
+    "closers": [
+      "0x0803779E"
+    ]
+  },
+  "disabled": {
+    "fields": [
+      "0x0802C3A6"
+    ],
+    "closers": [
+      "0x0802C3AE"
+    ]
+  },
+  "paralysis": {
+    "fields": [
+      "0x0802C350"
+    ],
+    "closers": [
+      "0x0802C358"
+    ]
+  },
+  "item effect ended": {
+    "fields": [
+      "0x0802FEDA"
+    ],
+    "closers": [
+      "0x0802FEE2"
+    ]
+  },
+  "battle item cure": {
+    "fields": [
+      "0x0803925E"
+    ],
+    "closers": [
+      "0x08039268"
+    ]
+  },
+  "enemy dizziness label": {
+    "parts": [
+      "0x0802C2DA"
+    ],
+    "closers": [
+      "0x0802C2FA"
+    ]
+  },
+  "weapon attack and accuracy": {
+    "parts": [
+      "0x0804DDDC",
+      "0x0804DE0A"
+    ],
+    "fields": [
+      "0x0804DE02",
+      "0x0804DE1C"
+    ],
+    "closers": [
+      "0x0804DE26"
+    ]
+  },
+  "weapon cost range and type": {
+    "parts": [
+      "0x0804DE88",
+      "0x0804DE9C"
+    ],
+    "fields": [
+      "0x0804DE94",
+      "0x0804DEA4"
+    ],
+    "closers": [
+      "0x0804DEAC"
+    ]
+  },
+  "inventory weapon attack and accuracy": {
+    "parts": [
+      "0x0804F8BA",
+      "0x0804F8D6"
+    ],
+    "fields": [
+      "0x0804F8CE",
+      "0x0804F8E2"
+    ],
+    "closers": [
+      "0x0804F8EA"
+    ]
+  },
+  "inventory weapon cost range and type": {
+    "parts": [
+      "0x0804F8FA",
+      "0x0804F90E"
+    ],
+    "fields": [
+      "0x0804F906",
+      "0x0804F916"
+    ],
+    "closers": [
+      "0x0804F91E"
+    ]
+  },
+  "item target prompt": {
+    "fields": [
+      "0x0805082E"
+    ],
+    "closers": [
+      "0x08050836"
+    ]
+  },
+  "HP recovery description": {
+    "parts": [
+      "0x0804DA30"
+    ],
+    "fields": [
+      "0x0804DA3A"
+    ],
+    "closers": [
+      "0x0804DA80"
+    ]
+  },
+  "terrain descriptions": {
+    "parts": [
+      "0x0804DA6A",
+      "0x0804DA78"
+    ],
+    "closers": [
+      "0x0804DA80"
+    ]
+  },
+  "weapon sale rows": {
+    "fields": [
+      "0x08054A3A",
+      "0x08054A5C",
+      "0x08054A7E"
+    ],
+    "parts": [
+      "0x08054A4C",
+      "0x08054A64"
+    ],
+    "closers": [
+      "0x08054A86"
+    ]
+  }
+}

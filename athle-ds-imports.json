@@ -1,0 +1,1027 @@
+{
+  "70695E": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event000_LZ.bin",
+        "offset": "000D5C",
+        "text": "{player}\n「うん！"
+      }
+    ]
+  },
+  "706CF0": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/md1018_LZ.bin",
+        "offset": "0000A3",
+        "text": "{player}\n「ちちうえが…？"
+      }
+    ]
+  },
+  "707138": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "000299",
+        "text": "{player}\n「ちがいます　ちちうえ！"
+      },
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "0002CE",
+        "text": "{player}\n「レジーナは　ワルく　ありません！"
+      },
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "00030D",
+        "text": "{player}\n「バツを　あたえるなら\n　このボクにっ！"
+      }
+    ]
+  },
+  "70788F": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "000E41",
+        "text": "{player}\n「ちちうえっ！\n　いっしょに　たたかいます！！"
+      }
+    ]
+  },
+  "707A21": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "00118F",
+        "text": "{player}\n「ちちうえ…"
+      }
+    ]
+  },
+  "707A9E": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "001239",
+        "text": "{player}\n「…ちちうえ"
+      },
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "00124A",
+        "text": "{player}\n「どうか…、どうか　ごぶじで…"
+      }
+    ]
+  },
+  "707C2C": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "0015E9",
+        "text": "{player}\n「‥‥‥（アイツは…）"
+      }
+    ]
+  },
+  "707D48": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "001760",
+        "text": "{player}\n「うん"
+      }
+    ]
+  },
+  "70808A": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "001B4C",
+        "text": "{player}\n「‥‥‥（なんか、ふくざつだな…）"
+      }
+    ]
+  },
+  "70850C": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "001940",
+        "text": "{player}\n「でも、ボクに　のりこなせるだろうか…？"
+      }
+    ]
+  },
+  "70867F": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "001FC5",
+        "text": "{player}\n「よし、これより　ただちに\n　しろを　脱出（だっしゅつ）する！"
+      },
+      {
+        "file": "eventbin/event001_LZ.bin",
+        "offset": "002007",
+        "text": "{player}\n「グスタフ　はっしん！！"
+      }
+    ]
+  },
+  "709562": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event002_LZ.bin",
+        "offset": "000A33",
+        "text": "{player}\n「おねがいします\n　おしえてください！"
+      }
+    ]
+  },
+  "7099B3": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event002_LZ.bin",
+        "offset": "001018",
+        "text": "{player}\n「ありがとう　ローマンさん"
+      },
+      {
+        "file": "eventbin/event002_LZ.bin",
+        "offset": "001037",
+        "text": "{player}\n「でも、いかなくちゃ…"
+      },
+      {
+        "file": "eventbin/event002_LZ.bin",
+        "offset": "001052",
+        "text": "{player}\n「どうしても…"
+      }
+    ]
+  },
+  "70A07D": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event111_LZ.bin",
+        "offset": "0001BB",
+        "text": "{player}\n「ブラッド…"
+      }
+    ]
+  },
+  "70A1FB": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event111_LZ.bin",
+        "offset": "0004A3",
+        "text": "{player}\n「うん！\n　みんな　いこう！"
+      }
+    ]
+  },
+  "70ACE5": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event003_LZ.bin",
+        "offset": "0007F1",
+        "text": "{player}\n「皇帝（こうてい）…"
+      },
+      {
+        "file": "eventbin/event003_LZ.bin",
+        "offset": "00080A",
+        "text": "{player}\n「いったい　なにもの　なんだ…"
+      }
+    ]
+  },
+  "70AFFC": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event003_LZ.bin",
+        "offset": "000CAC",
+        "text": "{player}\n「レジーナ…"
+      }
+    ]
+  },
+  "70B29D": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event003_LZ.bin",
+        "offset": "001333",
+        "text": "{player}\n「おいかける…"
+      }
+    ]
+  },
+  "70B462": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event003_LZ.bin",
+        "offset": "0014BE",
+        "text": "{player}\n「いこう！"
+      }
+    ]
+  },
+  "70BACE": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event100_LZ.bin",
+        "offset": "000738",
+        "text": "{player}\n「とまった…"
+      }
+    ]
+  },
+  "70BAEF": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event100_LZ.bin",
+        "offset": "000789",
+        "text": "{player}\n「うん、だいじょうぶ…"
+      }
+    ]
+  },
+  "70BF7B": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event004_LZ.bin",
+        "offset": "000245",
+        "text": "{player}\n「うん…"
+      }
+    ]
+  },
+  "70E5C2": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event112_LZ.bin",
+        "offset": "000289",
+        "text": "{player}\n「う、うん"
+      }
+    ]
+  },
+  "70F8DC": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event113_LZ.bin",
+        "offset": "000A58",
+        "text": "{player}\n「う、うん…"
+      },
+      {
+        "file": "eventbin/event113_LZ.bin",
+        "offset": "000A69",
+        "text": "{player}\n「このひとが　ウソを　いってるとは\n　ボクには　おもえない…"
+      }
+    ]
+  },
+  "7102BD": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event006_LZ.bin",
+        "offset": "000314",
+        "text": "{player}\n「うん！"
+      }
+    ]
+  },
+  "711040": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event183_LZ.bin",
+        "offset": "00085C",
+        "text": "{player}\n「アース…"
+      }
+    ]
+  },
+  "711BAF": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event009_LZ.bin",
+        "offset": "00280C",
+        "text": "{player}\n「うん…"
+      },
+      {
+        "file": "eventbin/event009_LZ.bin",
+        "offset": "00281D",
+        "text": "{player}\n「みんな、よく\n　ぶじで　いてくれた"
+      }
+    ]
+  },
+  "711C4B": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event009_LZ.bin",
+        "offset": "002878",
+        "text": "{player}\n「くるしい　たたかい　だけど\n　さいごまで　のぞみを\n　すてないで　がんばろうっ！"
+      }
+    ]
+  },
+  "7125E5": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event010_LZ.bin",
+        "offset": "00032F",
+        "text": "{player}\n「すぐに、おいかけよう！"
+      },
+      {
+        "file": "eventbin/event010_LZ.bin",
+        "offset": "00034C",
+        "text": "{player}\n「じかんが　たてば　ついせきが\n　むずかしくなる"
+      }
+    ]
+  },
+  "71B104": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/md3030_LZ.bin",
+        "offset": "0001AC",
+        "text": "{player}\n「うん"
+      }
+    ]
+  },
+  "71BA85": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event012_LZ.bin",
+        "offset": "0008E7",
+        "text": "{player}\n「たった　ひとりで…"
+      }
+    ]
+  },
+  "721419": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event162_LZ.bin",
+        "offset": "000192",
+        "text": "{player}\n「イヤな　よかんが　する…"
+      }
+    ]
+  },
+  "7215D5": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event162_LZ.bin",
+        "offset": "0003FF",
+        "text": "{player}\n「…ゾイドバトル？"
+      }
+    ]
+  },
+  "722467": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event162_LZ.bin",
+        "offset": "001684",
+        "text": "{player}\n「ブラッド…"
+      }
+    ]
+  },
+  "722F80": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event162_LZ.bin",
+        "offset": "0026A2",
+        "text": "{player}\n「うん、そうと　きまったら\n　バトルを　かちすすもう！"
+      }
+    ]
+  },
+  "728E03": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event180_LZ.bin",
+        "offset": "000689",
+        "text": "{player}\n「ブラッド…"
+      }
+    ]
+  },
+  "729052": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event180_LZ.bin",
+        "offset": "0008F9",
+        "text": "{player}\n「なにを　するきだ　ブラッド！"
+      }
+    ]
+  },
+  "72930F": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event180_LZ.bin",
+        "offset": "000C0B",
+        "text": "{player}\n「そのてが　あったね\n　よし、たのんで　みよう"
+      }
+    ]
+  },
+  "72DB23": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/md4010_LZ.bin",
+        "offset": "000460",
+        "text": "{player}\n「うん、わかった\n　いってみよう"
+      }
+    ]
+  },
+  "72E7F3": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event007_LZ.bin",
+        "offset": "0016E4",
+        "text": "{player}\n「バン！"
+      }
+    ]
+  },
+  "72EB3F": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event007_LZ.bin",
+        "offset": "002057",
+        "text": "{player}\n「バンは！"
+      },
+      {
+        "file": "eventbin/event007_LZ.bin",
+        "offset": "002066",
+        "text": "{player}\n「バンは、だいじょうぶ　なんですか？"
+      }
+    ]
+  },
+  "73057A": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event114_LZ.bin",
+        "offset": "000472",
+        "text": "{player}\n「フランを　おいかけよう"
+      },
+      {
+        "file": "eventbin/event114_LZ.bin",
+        "offset": "00048F",
+        "text": "{player}\n「そうすれば　きっと\n　なにか　わかるはず…"
+      }
+    ]
+  },
+  "730D2F": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event009_LZ.bin",
+        "offset": "000651",
+        "text": "{player}\n「うん…\n　みんな、たたかいに　そなえるんだ！"
+      }
+    ]
+  },
+  "7311C3": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event009_LZ.bin",
+        "offset": "000820",
+        "text": "{player}\n「ジークと　フィーネの\n　おかげ　なんだね　バン"
+      }
+    ]
+  },
+  "731933": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event009_LZ.bin",
+        "offset": "001613",
+        "text": "{player}\n「うん、アーカディアに　もどろう！"
+      }
+    ]
+  },
+  "738609": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event151_LZ.bin",
+        "offset": "000C16",
+        "text": "{player}\n「こっちは　しんぱい　いらない"
+      }
+    ]
+  },
+  "738726": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event151_LZ.bin",
+        "offset": "000D4A",
+        "text": "{player}\n「うん…"
+      },
+      {
+        "file": "eventbin/event151_LZ.bin",
+        "offset": "000DEA",
+        "text": "{player}\n「なんて　ヒドい　ことを…"
+      }
+    ]
+  },
+  "73884D": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event151_LZ.bin",
+        "offset": "000EF3",
+        "text": "{player}\n「なんでもない…"
+      },
+      {
+        "file": "eventbin/event151_LZ.bin",
+        "offset": "000F08",
+        "text": "{player}\n「いこう…"
+      }
+    ]
+  },
+  "738B5A": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event152_LZ.bin",
+        "offset": "0004DE",
+        "text": "{player}\n「だれが　こんな　ことを！"
+      }
+    ]
+  },
+  "7391D0": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event153_LZ.bin",
+        "offset": "000525",
+        "text": "{player}\n「…ブラッド"
+      }
+    ]
+  },
+  "7394A2": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event153_LZ.bin",
+        "offset": "000844",
+        "text": "{player}\n「うん、ボクたちの　てで\n　デススティンガーを　とめるんだ！"
+      }
+    ]
+  },
+  "739A5C": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event153_LZ.bin",
+        "offset": "000E1D",
+        "text": "{player}\n「みんなで　チカラを　あわせれば\n　あの　バケモノを\n　とめられる　かもしれません"
+      },
+      {
+        "file": "eventbin/event153_LZ.bin",
+        "offset": "000E72",
+        "text": "{player}\n「おねがいです、ボクたちも\n　つれて　いって　ください"
+      }
+    ]
+  },
+  "739BD8": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event154_LZ.bin",
+        "offset": "00003F",
+        "text": "{player}\n「ここが、ウンディーヌレイク…"
+      }
+    ]
+  },
+  "739E1C": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event154_LZ.bin",
+        "offset": "000314",
+        "text": "{player}\n「‥‥‥スゴいや"
+      }
+    ]
+  },
+  "739F00": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event154_LZ.bin",
+        "offset": "00046A",
+        "text": "{player}\n「き、キミは、もしかして…"
+      }
+    ]
+  },
+  "73B0FF": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event154_LZ.bin",
+        "offset": "001936",
+        "text": "{player}\n「ボクたちも　いきます！"
+      }
+    ]
+  },
+  "73B321": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event154_LZ.bin",
+        "offset": "001C52",
+        "text": "{player}\n「よし、みんな　デススティンガーの\n　ところへ　むかおう！"
+      }
+    ]
+  },
+  "73B5DA": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event155_LZ.bin",
+        "offset": "00034A",
+        "text": "{player}\n「かつ　しかない…"
+      }
+    ]
+  },
+  "73B71A": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event155_LZ.bin",
+        "offset": "0003F1",
+        "text": "{player}\n「ボクたちは　いままで　たくさんの\n　たたかいを　くぐりぬけて　きたんだ…"
+      },
+      {
+        "file": "eventbin/event155_LZ.bin",
+        "offset": "00043F",
+        "text": "{player}\n「奇跡（きせき）は　かならず　おこせるさ"
+      },
+      {
+        "file": "eventbin/event155_LZ.bin",
+        "offset": "00046C",
+        "text": "{player}\n「このセカイの　ひとたちの　ために…\n　そして、ボクたちの　ためにも"
+      }
+    ]
+  },
+  "73BE7C": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event156_LZ.bin",
+        "offset": "0009C6",
+        "text": "{player}\n「うん\n　よろしく　おねがいします"
+      }
+    ]
+  },
+  "73C117": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event156_LZ.bin",
+        "offset": "000E55",
+        "text": "{player}\n「こ、これが…"
+      }
+    ]
+  },
+  "73CDA4": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event156_LZ.bin",
+        "offset": "001E1D",
+        "text": "{player}\n「もちろんです、Ｄｒ．ディ"
+      }
+    ]
+  },
+  "73D103": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event156_LZ.bin",
+        "offset": "00280E",
+        "text": "{player}\n「よし、プラネタルサイトの　回収\n　（かいしゅう）に　しゅっぱつ　しよう！"
+      }
+    ]
+  },
+  "73DB10": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event152_LZ.bin",
+        "offset": "00175A",
+        "text": "{player}\n「これで、なんとか　なるかもしれない…"
+      }
+    ]
+  },
+  "73DD68": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event157_LZ.bin",
+        "offset": "000034",
+        "text": "{player}\n「ブラッド！"
+      }
+    ]
+  },
+  "73E56E": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event157_LZ.bin",
+        "offset": "0009C7",
+        "text": "{player}\n「ゴメン…"
+      }
+    ]
+  },
+  "73EBA5": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event157_LZ.bin",
+        "offset": "001138",
+        "text": "{player}\n「やってみます…"
+      }
+    ]
+  },
+  "73ED19": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event182_LZ.bin",
+        "offset": "000137",
+        "text": "{player}\n「よし、グラヴィティカノン発射\n　（はっしゃ）まで\n　みんなで　このばを　まもるんだっ！"
+      }
+    ]
+  },
+  "73ED72": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event182_LZ.bin",
+        "offset": "0001EA",
+        "text": "{player}\n「うん！"
+      }
+    ]
+  },
+  "73F342": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event158_LZ.bin",
+        "offset": "000613",
+        "text": "{player}\n「あたった…"
+      }
+    ]
+  },
+  "73FAB7": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event158_LZ.bin",
+        "offset": "000F30",
+        "text": "{player}\n「…なんてことだ"
+      }
+    ]
+  },
+  "73FF33": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event158_LZ.bin",
+        "offset": "001355",
+        "text": "{player}\n「‥‥‥\n　いくしかないね…"
+      },
+      {
+        "file": "eventbin/event158_LZ.bin",
+        "offset": "001375",
+        "text": "{player}\n「よし、まずは　いったん\n　ウルトラザウルスに　もどって\n　じゅんびを　ととのえよう"
+      }
+    ]
+  },
+  "740ADA": {
+    "position": "before",
+    "source": [
+      {
+        "file": "eventbin/event159_LZ.bin",
+        "offset": "0009A0",
+        "text": "{player}\n「やるしかない…、ボクたちで…"
+      }
+    ]
+  },
+  "74194E": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event159_LZ.bin",
+        "offset": "0017A6",
+        "text": "{player}\n「…うん！"
+      }
+    ]
+  },
+  "741B45": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event159_LZ.bin",
+        "offset": "001A2D",
+        "text": "{player}\n「‥‥‥うん"
+      }
+    ]
+  },
+  "741BB9": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event159_LZ.bin",
+        "offset": "001B5F",
+        "text": "{player}\n「バン…"
+      }
+    ]
+  },
+  "7424AA": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event160_LZ.bin",
+        "offset": "000AA6",
+        "text": "{player}\n「そうだね、いそいで\n　アーカディアへ　もどろう"
+      }
+    ]
+  },
+  "743766": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event017_LZ.bin",
+        "offset": "000C07",
+        "text": "{player}\n「…いこう"
+      },
+      {
+        "file": "eventbin/event017_LZ.bin",
+        "offset": "000C16",
+        "text": "{player}\n「ボクたちにしか　とめられない…"
+      }
+    ]
+  },
+  "743F1B": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/event017_LZ.bin",
+        "offset": "001201",
+        "text": "{player}\n「よし、いよいよ\n　決戦（けっせん）だっ！！"
+      },
+      {
+        "file": "eventbin/event017_LZ.bin",
+        "offset": "001231",
+        "text": "{player}\n「みんな、いこうっ！！！"
+      }
+    ]
+  },
+  "7449ED": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event018_LZ.bin",
+        "offset": "000223",
+        "text": "{player}\n「よし、このまま\n　地下（ちか）まで　つきすすもう！"
+      }
+    ]
+  },
+  "745089": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event018_LZ.bin",
+        "offset": "000BE4",
+        "text": "{player}\n「‥‥‥アース"
+      }
+    ]
+  },
+  "74582B": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event116_LZ.bin",
+        "offset": "0008F7",
+        "text": "{player}\n「…うん！"
+      }
+    ]
+  },
+  "74680E": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "000499",
+        "text": "{player}\n「‥‥‥そ、そんな"
+      }
+    ]
+  },
+  "746F99": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "000F47",
+        "text": "{player}\n「くっ…、ゆるさない"
+      }
+    ]
+  },
+  "74744A": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "001587",
+        "text": "{player}\n「‥‥‥わかった"
+      },
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "00159C",
+        "text": "{player}\n「決着（けっちゃく）を\n　つけよう　ブラッド！！"
+      }
+    ]
+  },
+  "74779C": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "0019EE",
+        "text": "{player}\n「これで、さいごだっ！！"
+      }
+    ]
+  },
+  "747E18": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "0022DF",
+        "text": "{player}\n「ブラッド…"
+      }
+    ]
+  },
+  "7481AA": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event020_LZ.bin",
+        "offset": "002842",
+        "text": "{player}\n「いこう…\n　まっている　ひとたちの　ところへ"
+      }
+    ]
+  },
+  "748219": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event021_LZ.bin",
+        "offset": "00006B",
+        "text": "{player}\n「‥‥‥でも"
+      }
+    ]
+  },
+  "7482B8": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event021_LZ.bin",
+        "offset": "0001BA",
+        "text": "{player}\n「ちちうえ…"
+      }
+    ]
+  },
+  "7490B2": {
+    "position": "after",
+    "source": [
+      {
+        "file": "eventbin/md1024_LZ.bin",
+        "offset": "000AB4",
+        "text": "{player}\n「そうですか…"
+      }
+    ]
+  },
+  "7493A2": {
+    "position": "replace",
+    "source": [
+      {
+        "file": "eventbin/event184_LZ.bin",
+        "offset": "000311",
+        "text": "{player}\n「ありがとう！　Ｄｒ．Ｔ！！"
+      }
+    ]
+  }
+}

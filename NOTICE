@@ -1,0 +1,12 @@
+Zoids Saga (Japan) decompilation and English translation
+Copyright (c) 2026 Jumar Macato
+
+This project is licensed under the GNU Affero General Public License, version 3 only (SPDX: AGPL-3.0-only). See LICENSE.
+
+If you distribute a modified version, or run one for users over a network, you must offer those users the complete source of your version under the same license.
+
+The BIOS routines in src/bios come from Cult-of-GBA/BIOS and stay under the MIT license. See src/bios/LICENSE.
+
+The Xolonium font in tools/script_editor/fonts is by Severin Meyer and stays under the SIL Open Font License 1.1. See tools/script_editor/fonts/License.txt.
+
+Zoids names, characters, artwork, text and game data belong to their owners and are not covered by this license. This repository contains no ROM. The Japanese scripts are extracted from your own ROMs when you build.
